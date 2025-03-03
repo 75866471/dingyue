@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 `
 
 let urls = [];
